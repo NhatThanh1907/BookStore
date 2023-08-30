@@ -1,0 +1,49 @@
+#order-success{
+	margin-top:20px;
+	padding:20px;
+	background:#FFF;
+	border-radius:3px;
+	width: inherit;
+}
+#order-success-txt h3{
+	font-size:22px;
+	font-weight:bold;
+	text-transform:uppercase;
+	color:#58b947;
+}
+#order-success-txt p{
+	font-size:13px;
+}
+
+#order-success-txt span {
+	color: red;
+	font-weight: bold;
+}
+
+.order-success-wrap {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+.order-success-wrap img{
+	width: 350px;
+	height: 350px;
+	margin-bottom: 30px;
+}
+
+#order-success-txt {
+	text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+	
